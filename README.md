@@ -45,5 +45,6 @@
 ## Chama 🔥
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Gustavo%20Abreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabreeu/)](https://www.linkedin.com/in/gustavoabreeu/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-gustavoabreu02.netlify.app-utilizando?style=flat-square&logo=firefox&logoColor=white)](https://gustavoabreu02.netlify.app/utilizando)
 
 ### Vlw Flw 🤙
