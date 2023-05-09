@@ -13,7 +13,6 @@
 - 📧 E-mail: gustavofart371@gmail.com
 - 💬 WhatsApp: +55 (88) 99482-8557
 - 🌆 Cidade: Forquilha - CE
-- 🌟 Nível: Júnior
 
 ## Stack 🚀
 ### Front-end
