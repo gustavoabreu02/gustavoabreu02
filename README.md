@@ -1,8 +1,8 @@
 # Olá, mundo! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Hello World">
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Hello World" width="400px">
+</div>
 
 ## Sobre mim 😎
 - 👨‍🎓 Estudante de Ciência da Computação.
