@@ -28,6 +28,7 @@
 ### Back-end
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![API Rest](https://img.shields.io/badge/-API%20Rest-61DAFB?style=flat-square&logo=rest)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -35,6 +36,10 @@
 ![Unit Tests](https://img.shields.io/badge/-Unit%20Tests-61DAFB?style=flat-square&logo=testing-library)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-1A91DA?style=flat-square&logo=sequelize)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha)
+![Chai](https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai)
+![Sinon](https://img.shields.io/badge/-Sinon-000000?style=flat-square&logo=sinon)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens)
 
 ## Sobre meu perfil no Github 🤖
 
