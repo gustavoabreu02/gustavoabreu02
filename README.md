@@ -23,6 +23,7 @@
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-61DAFB?style=flat-square&logo=testing-library)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat-square&logo=react)
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat-square&logo=react)
 
 ### Back-end
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
