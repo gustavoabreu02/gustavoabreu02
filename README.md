@@ -9,9 +9,9 @@
 - 🎓 Formado em desenvolvimento web Full Stack pela Trybe.
 - 📅 Nascimento: 19 Janeiro 2002
 - 🏠 Naturalidade: Belo Horizonte - MG
-- 📞 Telefone: +55 (88) 99419-9338
+- 📞 Telefone: +55(88) 99419-9338
 - 📧 E-mail: gustavofart371@gmail.com
-- 💬 WhatsApp: +55 (88) 99482-8557
+- 💬 WhatsApp: +55(88) 99482-8557
 - 🌆 Cidade: Sobral - CE
 
 ## Stack 🚀
