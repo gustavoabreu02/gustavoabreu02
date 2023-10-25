@@ -5,9 +5,9 @@
 </div>
 
 ## Sobre mim 😎
+- 👨‍💼 Analist de Desenvolvimento de Sistemas pela SobralNet
 - 👨‍🎓 Estudante de Ciência da Computação.
-- 🎓 Formado em desenvolvimento web Full Stack pela Trybe.
-- 📅 Nascimento: 19 Janeiro 2002
+- 🎓 Formado em desenvolvimento web Full Stack.
 - 🏠 Naturalidade: Belo Horizonte - MG
 - 📞 Telefone: +55(88) 99482-8557
 - 📧 E-mail: gustavofart371@gmail.com
