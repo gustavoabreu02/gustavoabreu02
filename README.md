@@ -5,7 +5,7 @@
 </div>
 
 ## Sobre mim 😎
-- 👨‍💼 Analist de Desenvolvimento de Sistemas pela SobralNet
+- 👨‍💼 Analista de Desenvolvimento de Sistemas pela SobralNet
 - 👨‍🎓 Estudante de Ciência da Computação.
 - 🎓 Formado em desenvolvimento web Full Stack.
 - 🏠 Naturalidade: Belo Horizonte - MG
