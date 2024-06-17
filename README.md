@@ -10,7 +10,7 @@
 - 🎓 Formado em desenvolvimento web Full Stack.
 - 🏠 Naturalidade: Belo Horizonte - MG
 - 📞 Telefone: +55(88) 99482-8557
-- 📧 E-mail: gustavofart371@gmail.com
+- 📧 E-mail: gustavopinheiroabreu@gmail.com
 - 🌆 Cidade: Sobral - CE
 
 ## Stack 🚀
