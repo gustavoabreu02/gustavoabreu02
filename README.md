@@ -6,7 +6,7 @@
 
 ## Sobre mim 😎
 - 👨‍💼 Analista de Desenvolvimento de Sistemas pela Sobralnet
-- 👨‍🎓 Estudante de Ciência da Computação 
+- 👨‍🎓 Estudante de Ciência da Computação
 - 🎓 Formado em desenvolvimento web Full Stack
 - 🏠 Naturalidade: Belo Horizonte - MG
 - 📞 Telefone: +55(88) 99482-8557
